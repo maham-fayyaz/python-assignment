@@ -50,8 +50,7 @@ Next, the program iterates over the **list* of numbers again, creating a *tuple*
 
 `for num in num_list:`
 
-` >`print(f"The number {num} and its square:`
-`({num},{num ** 2})")``
+` >print(f"The number {num} and its square:({num},{num ** 2})")`
 ### 8.Calculate and Display the Sum:
 *Then we will calculates the sum of all the numbers stored in num_list and assigns this total to the variable sum_numbers and print the result.*
 
