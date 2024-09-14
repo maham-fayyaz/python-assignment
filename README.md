@@ -3,7 +3,7 @@
 ### 1. Creating an Empty List
 First we will create an empty **list* to store the numbers*
 
-num_list=[]
+`num_list=[]`
 ### 2. Asking for User's Name
 
 then ask for prompts the **user* to enter their name and input is stored in the variable user_name.*
